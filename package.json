@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "WhatsApp",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.8.4"
+  },
+  "dependencies": {
+    "npm": "^6.0.0"
+  }
+}
